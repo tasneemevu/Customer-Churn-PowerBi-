@@ -1,16 +1,16 @@
 # Customer Churn Analysis (Power BI)
 
 ## Dashboard Overview
-![Dashboard](Dashboard.png)
+![Dashboard](Dashboard.PNG)
 
 ## Key Insights
 
 ### Churn by Contract
-![Contract](churned customers by contract.png)
+![Contract](churned customers by contract.PNG)
 
 
 ### Churn by Tenure
-![Tenure](churned customers by tenure.png)
+![Tenure](churned customers by tenure.PNG)
 
 
 ## Overview
