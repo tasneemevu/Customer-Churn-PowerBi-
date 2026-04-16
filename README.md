@@ -52,7 +52,12 @@ This project analyzes customer churn data from a telecom company to identify key
 
 ## Files Included
 
-* Power BI Dashboard (.pbix)
+* Power BI Dashboard (telcoanalysis.pbix)
+* Dashboard.PNG
+* churned_by_contract.PNG
+* churned_by_tenure.PNG
+* churned_by_charges.PNG
+* Curned_customers_payment.PNG
   
 
 ## Conclusion
