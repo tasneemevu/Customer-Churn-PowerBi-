@@ -1,7 +1,6 @@
 # Customer Churn Analysis (Power BI)
 
-## Dashboard Overview
-![Dashboard](Dashboard.PNG)
+
 
 ## Key Insights
 
@@ -56,14 +55,15 @@ This project analyzes customer churn data from a telecom company to identify key
 * Review pricing strategy for high-paying customers
 * Promote alternative payment methods to reduce churn risk
 
-## Dashboard
 
-(Add screenshots here)
+## Dashboard Overview
+![Dashboard](Dashboard.PNG)
+
 
 ## Files Included
 
 * Power BI Dashboard (.pbix)
-* Dataset (if permitted)
+  
 
 ## Conclusion
 
