@@ -2,16 +2,6 @@
 
 
 
-## Key Insights
-
-### Churn by Contract
-![Contract](churned customers by contract.PNG)
-
-
-### Churn by Tenure
-![Tenure](churned customers by tenure.PNG)
-
-
 ## Overview
 
 This project analyzes customer churn data from a telecom company to identify key factors contributing to customer loss. The goal is to uncover patterns in customer behavior and provide actionable insights to improve retention.
